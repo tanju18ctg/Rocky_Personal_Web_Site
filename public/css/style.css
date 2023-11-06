@@ -371,7 +371,7 @@ h6 {
 ************************************************************/
 .hero-area {
     background-color: #333;
-    background: url(../images/hero-bg.jpg) no-repeat center center;
+    background: url('../images/hero-bg.jpg') no-repeat center center;
     background-size: cover;
     color: #fff;
     position: relative;
@@ -1221,7 +1221,7 @@ h6 {
 ************************************************************/
 .testimonial-section {
     background-color: #333;
-    background: url('../image/testimonial-bg.jpg') no-repeat center center;
+    background: url('../images/testimonial-bg.jpg') no-repeat center center;
     background-size: cover;
     padding-bottom: 107px;
     position: relative;
@@ -1800,7 +1800,7 @@ h6 {
 ************************************************************/
 .site-footer {
     background-color: #333;
-    background: url('../image/footer-bg.jpg') no-repeat center center;
+    background: url('../images/footer-bg.jpg') no-repeat center center;
     background-size: cover;
     padding-top: 90px;
     padding-bottom: 60px;
